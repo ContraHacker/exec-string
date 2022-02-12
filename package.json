@@ -1,6 +1,6 @@
 {
   "name": "exec-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility to execute a string as a function.",
   "main": "index.js",
   "scripts": {
