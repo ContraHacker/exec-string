@@ -1,6 +1,9 @@
 # exec-string
 Utility to execute a string as a function.
 
+![npm bundle size](https://img.shields.io/bundlephobia/min/exec-string)
+![version](https://img.shields.io/badge/Version-1.0.1-brightgreen)
+
 ## Installation
 
 ```bash
